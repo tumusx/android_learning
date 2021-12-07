@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">android-learning</string>
+    <string name="hello_world">Hello Wordl!</string>
+    <string name="buttonNext" translatable="false">Next</string>
+    <string name="descriptionOne" translatable="false">Digite aqui</string>
+</resources>
