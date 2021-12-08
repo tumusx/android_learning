@@ -14,9 +14,10 @@
         android:layout_marginStart="88dp"
         android:layout_marginTop="152dp"
         android:ems="10"
-        android:hint="@string/descriptionOne"
         android:gravity="center"
+        android:hint="@string/descriptionOne"
         android:inputType="textPersonName"
+        android:minHeight="48dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -30,6 +31,7 @@
         android:gravity="center"
         android:hint="@string/descriptionOne"
         android:inputType="number"
+        android:minHeight="48dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/buttonToast" />
 
