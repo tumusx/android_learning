@@ -2,3 +2,4 @@ Dedicado exclusivamente para colocar em prática algumas ensinamentos do livro d
 a documentação.
 -
 O livro se encontra disponível aqui: https://www.amazon.com.br/dp/8575227262/ref=cm_sw_r_cp_ep_dp_A0MHCbQ0XK9C2
+Documentação: https://developer.android.com/
